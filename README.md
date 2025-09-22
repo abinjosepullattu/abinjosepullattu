@@ -2,6 +2,13 @@
 
 🎓 **MCA Graduate** | 💻 **Full-Stack Developer** | 👾 **Web Developer**  
 
+
+## 🧑‍💻 About Me
+🎓 MCA Graduate from **Mar Athanasius College of Engineering, Kothamangalam**  
+💡 Passionate about **Programming, Web Development and AI**  
+🤝 Always open to **collaborate on interesting projects**
+
+
 Welcome to my GitHub! I build **web applications**, work with **Python & React**, and explore innovative **IoT projects**.  
 
 ---
@@ -41,22 +48,25 @@ Welcome to my GitHub! I build **web applications**, work with **Python & React**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinjosepullattu&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abinjosepullattu&show_icons=true&count_private=true&theme=tokyonight" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinjosepullattu&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak" />
 </p>
+
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/abinjosepullattu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:abinjosepullattu@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://yourportfolio.com/"><img src="https://img.shields.io/badge/Portfolio-000?logo=google-chrome&style=for-the-badge" /></a>
+ <a href="https://www.instagram.com/jose__abin__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" />
+  </a>
 </p>
 
 ---
