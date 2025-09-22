@@ -15,7 +15,7 @@ Welcome to my GitHub! I build **web applications**, work with **Python & React**
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Python, JavaScript (ES6+), C, c++, Java, PHP  
+- **Languages:** Python, JavaScript (ES6+), C, C++, Java, PHP  
 - **Frontend:** React.js, HTML5, CSS3, Bootstrap, TailwindCSS  
 - **Backend:** Node.js, Express.js, MySQL  
 - **Database:** MongoDB, MySQL  
