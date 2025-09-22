@@ -34,7 +34,8 @@ Welcome to my GitHub! I build **web applications**, work with **Python & React**
 
 ### 1. Disaster Relief Assistance Platform (MERN Stack)  
 - 🌐 A platform to **streamline disaster recovery operations**  
-- 📦 Manages resources, volunteers, and incidents in real-time  
+- 📦 Manages resources, volunteers, and incidents in real-time
+ - 🔗 **Live Demo / Project Link:** [Visit Here](https://disaster-platform-frontend-abinjosepullattus-projects.vercel.app/)
 
 ### 2. Smart Waste Bin (IoT + Cloud)  
 - 🗑️ Automated waste bin with **RFID access and cloud integration**  
